@@ -1,0 +1,8 @@
+pandas
+fastapi
+requests
+gunicorn
+nltk
+sklearn
+scikit-learn 
+logging

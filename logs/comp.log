@@ -1,0 +1,8 @@
+2023-02-28 16:13:26,043 - root - INFO - {' compilador'}
+2023-02-28 16:18:30,450 - root - INFO - {'tratamento de rede'}
+2023-03-02 13:53:52,580 - root - INFO - {'dados válidos'}
+2023-03-02 13:54:16,299 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): ave-bot-2d2d3-default-rtdb.firebaseio.com:443
+2023-03-02 13:54:16,785 - urllib3.connectionpool - DEBUG - https://ave-bot-2d2d3-default-rtdb.firebaseio.com:443 "GET //perguntas/.json HTTP/1.1" 200 8624
+2023-03-07 12:15:19,272 - root - INFO - {'t'}
+2023-03-07 12:15:58,435 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): ave-bot-2d2d3-default-rtdb.firebaseio.com:443
+2023-03-07 12:15:58,914 - urllib3.connectionpool - DEBUG - https://ave-bot-2d2d3-default-rtdb.firebaseio.com:443 "GET //perguntas/.json HTTP/1.1" 200 8624
