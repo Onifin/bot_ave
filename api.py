@@ -1,10 +1,11 @@
 import requests
 import json
 
+urlBD = "https://ave-bot-2d2d3-default-rtdb.firebaseio.com/"
 ## carregando url da api do firebase
-with open('config.json') as f:
-    config = json.load(f)
-    urlBD = config['url_api']
+# with open('config.json') as f:
+#     config = json.load(f)
+#     urlBD = config['url_api']
 
 def cria_pergunta(pergunta, resposta):
   """
